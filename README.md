@@ -1,4 +1,4 @@
-<h1> Project:  Jenkins CI/CD With GitHub Integration </h1> 
+<h1> Project:  Jenkins CI/CD With GitHub Integration. </h1> 
 
 <h2> Project Overview: </h2>
 <p>"The Jenkins CI/CD with GitHub Integration project is all about making software development easier. It sets up a system where the computer does a lot of the work for us, making everything faster, more reliable, and helping teams work together better.
